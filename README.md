@@ -4,7 +4,7 @@ Copyright (c) 2012 José Arnao
 Controles dinámicos con PHP, JavaScript y MySQL
 -----------------------------------------------
 
-Crear controles dinámicamente, realizar operaciones de cálculo con JavaScript, y guardar datos en MySQL.
+Crear controles dinámicamente, realizar operaciones de cálculo con JavaScript en arrays, y guardar datos en MySQL.
 
 Configuración:
 --------------
