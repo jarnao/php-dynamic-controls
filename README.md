@@ -6,8 +6,8 @@ Controles dinámicos con PHP, JavaScript y MySQL
 
 Crear controles dinámicamente, realizar operaciones de cálculo con JavaScript con arrays, y guardar datos en MySQL.
 
-Configuración:
---------------
+Configuración
+-------------
 1.- Crear la base de datos y las tablas.<br />
 2.- Registrar los datos preliminares en las tablas que corresponde<br />
 3.- Cambiar los parámetros de autenticación con el servidor MySQL<br />
