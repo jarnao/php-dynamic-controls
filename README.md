@@ -2,7 +2,6 @@ Copyright (c) 2012 Jose Arnao
 Code is under the MIT License 
 
 
-
 Controles dinámicos con PHP, JavaScript y MySQL
 ===============================================
 
