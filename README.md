@@ -1,10 +1,11 @@
 Code is under the MIT License<br />
-Copyright (c) 2012 José Arnao
+Copyright (c) 2012 Jose Arnao - jarnao@msn.com
+
 
 Controles dinámicos con PHP, JavaScript y MySQL
 -----------------------------------------------
 
-Crear controles dinámicamente, realizar operaciones de cálculo con JavaScript sobre arrays, y guardar datos en MySQL.
+Crear controles dinámicamente, realizar operaciones de cálculo con JavaScript sobre arrays y guardar datos en MySQL.
 
 Configuración
 -------------
