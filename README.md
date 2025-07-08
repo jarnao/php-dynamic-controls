@@ -1,5 +1,4 @@
-Code is under the MIT License<br />
-Copyright (c) 2012 Jose Arnao - jarnao@msn.com
+Copyright (c) 2012
 
 
 Controles dinámicos con PHP, JavaScript y MySQL
